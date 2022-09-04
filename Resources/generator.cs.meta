@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e9cc142e822b0d244905f58de8d40bbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - badminton: {fileID: 4077965754988958573, guid: b668bff2953fcf24b9925d174e55aa38,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
